@@ -3,3 +3,4 @@ src/.wwebjs_cache
 src/localAuth
 contacts.json
 .DS_Store
+docs/*
